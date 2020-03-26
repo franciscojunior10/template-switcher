@@ -1,5 +1,5 @@
 # Template Switcher :zap:
-##### Resultado final da aplicação
+##### Resultado final da aplicação :heavy_check_mark:
 
 ##### 1. Ativação do ambiente:
 ```
